@@ -1,0 +1,33 @@
+{
+  "name": "facebook-bot-part-1",
+  "version": "1.0.0",
+  "description": "A draft express code for a simple facebook bot. Part 1, follow the tutorial in the read me",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-x-hub": "^1.0.4",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sh1n/facebook-bot-part-1.git"
+  },
+  "keywords": [
+    "facebook",
+    "bot",
+    "express",
+    "startup"
+  ],
+  "author": "Francesco Shin Bux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sh1n/facebook-bot-part-1/issues"
+  },
+  "homepage": "https://github.com/Sh1n/facebook-bot-part-1#readme"
+}
